@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: Teaching & Researching 
+subtitle: Department of English Language and Literature, Duksung Women's University
+cover-img: /assets/img/zoom.jpg
 ---
 
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching & Researching 
-subtitle: Department of English Language and Literature, Duksung Women's University
+title: Teach &  Research
+subtitle: English, Duksung Women's University
 cover-img: /assets/img/zoom.jpg
 ---
 
